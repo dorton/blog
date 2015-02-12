@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dorton",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"dorton","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Dorton","url":"http://dorton.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://dorton.github.io/blog/themes/Casper"}}
