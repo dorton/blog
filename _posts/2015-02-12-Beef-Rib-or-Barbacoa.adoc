@@ -1,4 +1,5 @@
-= Beef Rib or Barbocoa
+= Beef Rib or Barbacoa
+:hp-image: http://www.roadfood.com/Photos/16928.jpg
 
 This is a test.
 
